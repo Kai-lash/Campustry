@@ -1,7 +1,8 @@
 <?php 
 $dbhost = 'localhost';
 $dbuser = 'root';
-$dbpass = '7gw3rJ7q';
+#$dbpass = '7gw3rJ7q';
+$dbpass = ''; #password to the database
 $conn = @mysql_connect($dbhost, $dbuser, $dbpass);
 if(! $conn )
 {
