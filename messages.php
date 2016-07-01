@@ -31,7 +31,10 @@
                 <a href="viewProfile.php"><h4>Alan Pitch</h4></a>Hi John! Do you know anybody who might have worked in ADA?
               </li>
               <li class="list-group-item">
-                <a href="#"><h4>Mory tonk</h4></a>Hello John! I have few queries related to internship. Could we meet?
+                <a href="#"><h4>Mory Tonk</h4></a>Hello John! I have few queries related to internship. Could we meet?
+              </li>
+              <li class="list-group-item">
+                <a href="#"><h4>Will Smith</h4></a>Hey! What's up?
               </li>
             </ul>
           </div>
