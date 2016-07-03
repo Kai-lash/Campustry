@@ -23,4 +23,4 @@ Users of Campustry can:
 >
 > **Delete** – Remove information from their profile.  A users profile cannot be permanently deleted, only deactivated.
 
-Campustry is different because it is a formal social media site for people associated with universities.  In college, many students don’t know much about their classmates.  Campustry is the place to get to know your classmates on a more professional, rather than a purely social level.
+Campustry is different because it is a formal social media site for people associated with universities.  In college, many students don’t know much about their classmates.  Campustry is the place to get to know your classmates on a more professional and academic, rather than a purely social level.
