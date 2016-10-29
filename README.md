@@ -5,7 +5,7 @@ Campustry - Project Proposal
 
 ---
 
-[Campustry](http://campustry.com/) is an academic, [open source](https://github.com/SeanCooke/Campustry) social media site for college students, professors and alumni.  Campustry’s target audience is people affiliated with universities looking to connect with other students, faculty and alumni on a formal level.  On Campustry *you can...*:
+[Campustry](http://campustry.com/) is an academic, [open source](https://github.com/kai-lash/Campustry) social media site for college students, professors and alumni.  Campustry’s target audience is people affiliated with universities looking to connect with other students, faculty and alumni on a formal level.  On Campustry *you can...*:
 
 + Get to know your fellow students (college classes can be anti-social).
 +	See what your colleagues’ scholarly interests are and what they are working on.
